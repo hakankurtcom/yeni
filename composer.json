@@ -14,6 +14,7 @@
             "email": "info@hakankurt.com"
         }
     ],
+    "version":  "1.0.0"
     "minimum-stability": "dev",
     "require": {}
 }
