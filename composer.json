@@ -1,0 +1,19 @@
+{
+    "name": "paketim/paketismim",
+    "description": "Github Test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paketim\\Paketismim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hakan Kurt",
+            "email": "info@hakankurt.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
