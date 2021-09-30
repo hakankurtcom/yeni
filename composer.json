@@ -1,6 +1,7 @@
 {
     "name": "paketim/paketismim",
     "description": "Github Test",
+    "keywords": ["model dosyası","test"]
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -14,7 +15,7 @@
             "email": "info@hakankurt.com"
         }
     ],
-    "version":  "1.0.0",
+    "version": "1.0.0",
     "minimum-stability": "dev",
     "require": {}
 }
