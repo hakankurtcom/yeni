@@ -1,7 +1,7 @@
 {
     "name": "paketim/paketismim",
     "description": "Github Test",
-    "keywords": ["model dosyası","test"]
+    "keywords": ["model dosyası","test"],
     "type": "project",
     "license": "MIT",
     "autoload": {
