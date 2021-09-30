@@ -1,5 +1,5 @@
 <?php
-namespace Paketim\Paketismim;
+namespace HakanPaketim\HakanPaketismim;
 
 use Illuminate\Databse\Eloquent\Model;
 
