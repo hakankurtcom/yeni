@@ -1,7 +1,7 @@
 <?php
 namespace HakanPaketim\HakanPaketismim;
 
-use Illuminate\Databse\Eloquent\Model;
+use Illuminate\Database\Eloquent\Model;
 
 class Sinifadi extends Model {
 protected $table = "tabloadi";
